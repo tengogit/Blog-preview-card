@@ -13,8 +13,7 @@
     }
 
     div {
-        display:flex;
-        align-self:center;
+       
         width: 384px;
         height: 522px;
     }
